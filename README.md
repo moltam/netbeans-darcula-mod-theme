@@ -22,7 +22,7 @@ This theme contains font, and color adjustments for PHP development:
 
 Modified Theme:
 
-![Modified Theme](resources/theme-original.png)
+![Modified Theme](resources/theme-mod.png)
 
 Original Theme:
 
