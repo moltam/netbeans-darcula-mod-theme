@@ -35,3 +35,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Credits
 
 - [Tamás Molnár](https://github.com/moltam)
+
+## Links
+
+- [Darcula LAF for NetBeans](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans)
